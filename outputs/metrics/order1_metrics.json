@@ -1,0 +1,20 @@
+{
+  "different_style": {
+    "avg_log_likelihood": -2.734487696557756,
+    "log_likelihood": -782.0634812155182,
+    "n_transitions": 286,
+    "perplexity": 15.401850993158414
+  },
+  "same_style": {
+    "avg_log_likelihood": -2.561544345350093,
+    "log_likelihood": -794.0787470585288,
+    "n_transitions": 310,
+    "perplexity": 12.955810118786777
+  },
+  "train": {
+    "avg_log_likelihood": -2.3523882805794654,
+    "log_likelihood": -1211.4799644984246,
+    "n_transitions": 515,
+    "perplexity": 10.510642135323916
+  }
+}

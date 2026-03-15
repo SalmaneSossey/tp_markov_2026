@@ -1,0 +1,92 @@
+{
+  "1": {
+    "metrics": {
+      "different_style": {
+        "avg_log_likelihood": -2.734487696557756,
+        "log_likelihood": -782.0634812155182,
+        "n_transitions": 286,
+        "perplexity": 15.401850993158414
+      },
+      "same_style": {
+        "avg_log_likelihood": -2.561544345350093,
+        "log_likelihood": -794.0787470585288,
+        "n_transitions": 310,
+        "perplexity": 12.955810118786777
+      },
+      "train": {
+        "avg_log_likelihood": -2.3523882805794654,
+        "log_likelihood": -1211.4799644984246,
+        "n_transitions": 515,
+        "perplexity": 10.510642135323916
+      }
+    },
+    "order": 1,
+    "possible_states": 29,
+    "sample": {
+      "cleaned": "",
+      "raw": "^$"
+    },
+    "sparsity": 0.8275862068965517,
+    "state_count": 24
+  },
+  "3": {
+    "metrics": {
+      "different_style": {
+        "avg_log_likelihood": -3.204282556245374,
+        "log_likelihood": -916.4248110861769,
+        "n_transitions": 286,
+        "perplexity": 24.63781742584283
+      },
+      "same_style": {
+        "avg_log_likelihood": -3.0248104003112575,
+        "log_likelihood": -937.6912240964898,
+        "n_transitions": 310,
+        "perplexity": 20.590100464446504
+      },
+      "train": {
+        "avg_log_likelihood": -2.5154643656196716,
+        "log_likelihood": -1295.4641482941308,
+        "n_transitions": 515,
+        "perplexity": 12.372352740607042
+      }
+    },
+    "order": 3,
+    "possible_states": 24389,
+    "sample": {
+      "cleaned": "",
+      "raw": "^^^$"
+    },
+    "sparsity": 0.013038664971913567,
+    "state_count": 318
+  },
+  "5": {
+    "metrics": {
+      "different_style": {
+        "avg_log_likelihood": -3.3554358748955555,
+        "log_likelihood": -959.6546602201289,
+        "n_transitions": 286,
+        "perplexity": 28.658092811981888
+      },
+      "same_style": {
+        "avg_log_likelihood": -3.2738548922229027,
+        "log_likelihood": -1014.8950165890998,
+        "n_transitions": 310,
+        "perplexity": 26.412962467925947
+      },
+      "train": {
+        "avg_log_likelihood": -2.6613639866956897,
+        "log_likelihood": -1370.6024531482801,
+        "n_transitions": 515,
+        "perplexity": 14.31580235168938
+      }
+    },
+    "order": 5,
+    "possible_states": 20511149,
+    "sample": {
+      "cleaned": "",
+      "raw": "^^^^^$"
+    },
+    "sparsity": 2.1793025831951198e-05,
+    "state_count": 447
+  }
+}
