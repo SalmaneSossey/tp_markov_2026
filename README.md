@@ -1,6 +1,6 @@
 # TP_Markov2026
 
-Submission-ready Python project for the "Markov Chains for Text Generation" lab. This repository contains the full codebase, cached data files, generated outputs, and a report-style summary so the project can be reviewed directly from GitHub.
+This repository contains the full codebase, cached data files, generated outputs, and a report-style summary so the project can be reviewed directly from GitHub.
 
 ## 1. Project Objective
 
